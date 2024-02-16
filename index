@@ -13,7 +13,7 @@ h1 {color: darkgreen}
   text-align: center; 
   }
   
-.2Div {
+.infoDiv {
   border: green;
   background-color: white;    
   text-align: center;
@@ -23,7 +23,7 @@ h1 {color: darkgreen}
 <div class="nameDiv">
 <h1><center>First Last</h1>
 </div>
-<div class="2Div">
+<div class="infoDiv">
 <p><center>Irvine, CA | email@gmail.com | xxx-xxx-xxx</center></p></div>
 <h2>Major Related Experience</h2>
 <p align=right> Month Year</p align=right>
